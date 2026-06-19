@@ -2,4 +2,4 @@
 
 ## Network Topology
 
-![Enterprise Topology](network-diagram/top.png)  
+![Enterprise Topology](network-diagram/TOP.PNG)  
